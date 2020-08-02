@@ -1,0 +1,8 @@
+spring:
+  devtools:
+    
+
+    restart:
+      # enabled: false
+      additional-exclude: target/test-classes/karate/,target/surefire/,target/surefire-reports/
+      # exclude: "!target/classes/"

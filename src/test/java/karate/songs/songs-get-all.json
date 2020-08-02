@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen"
+    },
+    {
+        "id": 2,
+        "title": "The Phantom Of The Opera",
+        "artist": "Nightwish"
+    },
+    {
+        "id": 3,
+        "title": "Toxicity",
+        "artist": "System Of A Down"
+    },
+    {
+        "id": 4,
+        "title": "Street Of Dreams",
+        "artist": "Guns N' Roses"
+    }
+]
